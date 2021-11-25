@@ -9,6 +9,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lore-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="Lore-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lore-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/913202674046996534/913202777021366313/Webp.net-gifmaker.gif">
