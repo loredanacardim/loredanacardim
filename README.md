@@ -1,12 +1,11 @@
 ## Oiii eu sou a Loredana Cardim
-- 👋 Hi, I’m Loredana 
-- 👀 I’m interested in react and C
-- 🌱 I’m currently learning electrical engineering and analysis and systems development
-- 📫 More information: loredanacardim@outlook.com
+- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e de Engenharia Elétrica 
+- 📚 Estudando Js e React 
+- 🌱 Estou em busca de emprego
 <div align="center">
   <a href="https://github.com/loredanacardim">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=loredanacardim&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loredanacardim&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=loredanacardim&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loredanacardim&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
 <div style="display: inline_block"><br>
