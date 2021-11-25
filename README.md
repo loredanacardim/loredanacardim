@@ -4,8 +4,8 @@
 - 🌱 Estou em busca de emprego
 <div align="center">
   <a href="https://github.com/loredanacardim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loredanacardim&show_icons=true&theme=gruvbox_light"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loredanacardim&layout=compact&theme=gruvbox_light"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loredanacardim&show_icons=true&theme=omni"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loredanacardim&layout=compact&theme=omni"/>
 </div>
 
 <div style="display: inline_block"><br>
