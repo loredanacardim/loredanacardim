@@ -1,5 +1,5 @@
 ## Oiii eu sou a Loredana Cardim
-- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e de Engenharia Elétrica 
+- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e IMACS no INSA de Toulouse
 - 📚 Estudando Js e React 
 - 🌱 Estou em busca de emprego
 <div align="center">
