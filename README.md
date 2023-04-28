@@ -1,7 +1,6 @@
-## Oiii eu sou a Loredana Cardim
-- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e IMACS no INSA de Toulouse
-- 📚 Estudando Js e React 
-- 🌱 Estou em busca de emprego
+## Hello!! I'm Loredana Cardim
+- 💻 I have a degree in Analysis and Systems Development
+- 📚 I'm studying HTML and CSS through Alura's courses, and I have a strong foundation in C.
 <div align="center">
   <a href="https://github.com/loredanacardim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=loredanacardim&show_icons=true&theme=omni"/>
